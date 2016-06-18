@@ -290,6 +290,7 @@
 				2CFE7E231D15BC1300D0E519 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
